@@ -1,2 +1,6 @@
 # IPTS
-Indian Politicians' Twitter Stance
+Indian Politicians' Twitter Stance dataset
+
+
+
+# Dataset
