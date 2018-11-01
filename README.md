@@ -5,8 +5,8 @@ Indian Politicians' Twitter Stance dataset
 
 ## Dataset description :
 The ITPS dataset contains 8356 number of tweets from 150 Indian Politicians labelled with topic and sentiment associated to each tweet.   
-The sentiment is labelled as one of the three classes : Agreement, Disagreement, Neutral.    
-The topics are labelled as one of the following classes :     
+Sentiments are labelled as one of the three classes : Agreement, Disagreement, Neutral.    
+Topics are labelled as one of the following classes :     
 
 
       GST   
